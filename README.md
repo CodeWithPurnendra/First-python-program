@@ -21,4 +21,4 @@ Perfect for anyone starting their journey with Python 🚀
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/basic-python-strings-variables.git
+git clone https://github.com/CodeWithPurnendra/First-python-program.git
